@@ -1,7 +1,5 @@
 #! /bin/bash
 
-echo 'good morning'
-
 while read line;
 
 do
